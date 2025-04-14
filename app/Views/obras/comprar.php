@@ -32,8 +32,8 @@
     <!-- Encabezado con navegación -->
     <header class="bg-gray-800 py-4 px-6">
         <div class="max-w-7xl mx-auto flex justify-between items-center">
-            <a href="/" class="text-xl font-bold text-yellow-400">Theatre<span class="text-white">Flow</span></a>
-            <a href="/" class="text-gray-300 hover:text-yellow-400 transition-colors">
+            <a href="<?= base_url() ?>" class="text-xl font-bold text-yellow-400">Theatre<span class="text-white">Flow</span></a>
+            <a href="<?= base_url() ?>" class="text-gray-300 hover:text-yellow-400 transition-colors">
                 ← Volver a cartelera
             </a>
         </div>
