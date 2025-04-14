@@ -14,6 +14,9 @@
  Date: 14/04/2025 18:18:35
 */
 
+-- Creación de la base de datos
+CREATE DATABASE theatreflow;
+
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
